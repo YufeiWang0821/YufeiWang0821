@@ -10,5 +10,5 @@ I'm learning NLP, a wondrous and captivating subject, and strving for a better s
 - 🇨🇳 Bachelor · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2020-now*
 
 **🎧Personal Interest**  
-I love listening to different genres of music and writing [my personal impressions](https://yufeiwang.notion.site/5af22acbf63b4dc89912cee00154ec4e?v=a8d12aed579d4f37b01477211c763454) on the albums I like.
+I love listening to [different genres of music](https://spotify.link/RzOIZBXd8xb) and writing [my personal impressions](https://yufeiwang.notion.site/5af22acbf63b4dc89912cee00154ec4e?v=a8d12aed579d4f37b01477211c763454) on the albums I like.
 Check it out. You might find your favorite album and resonate.
