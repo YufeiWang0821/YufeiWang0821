@@ -6,7 +6,7 @@ I'm learning NLP, a wondrous and captivating subject, and strving for a better s
 - Nutural Language Processing: Task-Oriented Dialog Systems and Multi-Modal Dialog
 - Prompt Learning
 
-**🧑‍🎓Education**
+**🧑🏻‍🎓Education**
 - 🇨🇳 Bachelor · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2020-now*
 
 **🎧Personal Interest**  
