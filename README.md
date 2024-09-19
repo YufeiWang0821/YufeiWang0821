@@ -1,4 +1,13 @@
-### About Me🙋🏻
-Hi there! I'm Yufei Wang (汪宇飞), currently a junior student at the [Huazhong University of Science and Technology](https://hust.edu.cn/). I'm now honored to be advised by [Prof.Jianjun Li](http://faculty.hust.edu.cn/lijianjun1/zh_CN/index.htm) as an undergraduate intern.  
-I'm planning to apply for the **PhD program** starting in **Fall 2024**. Any advice would be greatly appreciated.  
-You can find more about me on my [personal website](https://yufeiwang0821.github.io/).
+### About Me
+
+Hi there! I'm Yufei Wang (汪宇飞), currently a PhD student at [Huazhong University of Science and Technology](https://hust.edu.cn/). I'm honored to be advised by [Prof. Dan Feng](http://faculty.hust.edu.cn/dfeng/zh_CN/index.htm) and [Prof. Wei Tong](http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm).
+
+**📑Research Interest**
+
+- Processing-in-Memory
+- 
+
+**🧑🏻‍🎓Education**
+
+- 🇨🇳 Bachelor · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2020 - Jul.2024*
+- 🇨🇳 PhD · [HUST](https://hust.edu.cn/) · Computer Science · *Sep.2024 - Present*
